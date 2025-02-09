@@ -20,7 +20,7 @@ Your Email (Please replace with your email.)
 
 ## Dependencies
 
-- OpenGL (Required for Both Versions):
+- OpenGL:
 ```bash
 sudo add-apt-repository ppa:kisak/kisak-mesa
 sudo apt update
