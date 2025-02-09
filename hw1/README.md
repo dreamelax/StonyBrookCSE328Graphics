@@ -37,7 +37,7 @@ apt install libopencv-dev libglm-dev libglew-dev libglfw3-dev mesa-utils libx11-
 
 ## Compile & Run
 
-- C/C++ Version (Run inside this directory, i.e., `hw1/`): 
+- Run inside this directory, i.e., `hw1/`: 
 ```bash
 mkdir build
 cd build
