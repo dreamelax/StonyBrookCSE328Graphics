@@ -91,17 +91,6 @@ Features or parts left unchecked here won't be graded!
   you may also specify your own setting here.
   In this case, penalties may apply.
 
-## FAQ: Runtime error "shader file not successfully read"
-
-If you are using the CLion IDE, you should set up the working directory of the project.
-First click the "hw1 | Debug" icon on the top-right corner, 
-next click "Edit Configurations...", 
-then set up the "Working directory" item to the root of your project, 
-i.e., the path to `hw1/`
-(this directory should be further renamed to `sbuid_hwx` as specified above). 
-Note that the working directory must be **exactly** root of your project 
-(its parent directories, e.g. path to `StonyBrookCSE328Graphics/`, won't work). 
-
 ## Appendix
 
 Please include any other stuff you would like to mention in this section.
