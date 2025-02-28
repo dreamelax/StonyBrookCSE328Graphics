@@ -1,10 +1,10 @@
 # HW1
 
-Your Name (Please replace with your name.)
+Your Name Sibi Satheeshkumar
 
-Your SBU ID (Please replace with your 9-digit SBU ID.)
+Your SBU ID 115184701
 
-Your Email (Please replace with your email.)
+Your Email sibi.satheeshkumar@stonybrook.edu
 
 ## Overview
 
